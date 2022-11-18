@@ -1,0 +1,21 @@
+{
+  "name": "cc-links",
+  "version": "1.0.0",
+  "description": "Модуль для создания сокращенных ссылок",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cc",
+    "links",
+    "short",
+    "qupe",
+    "click"
+  ],
+  "author": "XOP EHOTOB <хор.енотов.рф>",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.1.3"
+  }
+}
