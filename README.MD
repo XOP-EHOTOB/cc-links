@@ -33,11 +33,13 @@ const getLink = async () => {
   /*
     short — объект, возвращаемый при успешном сокращении:
     {
+      link: {
         "from": "https:vk.com/api/link/generate", Ваша ссылка для сокращения
         "to": "qupe.pw/R3s5sOvTj", сокращенный адрес
         "code": "R3s5sOvTj",
         "date": "2022-11-18T09:13:20.426Z",
-  }
+      }
+    }
   */
 ```
 
